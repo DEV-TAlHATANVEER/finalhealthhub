@@ -32,6 +32,9 @@ To set up the project locally, follow these steps:
    npm run dev
    ```
 
+## Configuration
+Please add your Firebase config in the `firebase.js` file and your Cloudinary config in the `cloudinary.js` file.
+
 ## Usage
 Once the server is running, you can access the application at `http://localhost:3000`. Use the following credentials to log in:
 - **Admin**: admin@example.com / password

@@ -1,6 +1,6 @@
-export const cloudName = 'ddmnzwihw';
-export const uploadPreset = 'doctor_uploads';
-export const apiKey = '243751331129925';
+export const cloudName = 'yourcloudname';
+export const uploadPreset = 'uploadpreset';
+export const apiKey = 'apikeyhere';
 
 export const uploadFile = async (file) => {
   const formData = new FormData();
